@@ -1,9 +1,9 @@
 # ClasshelpManager
 <h3>Current version: v0.1 (Beta)</h3>
+<h5>DM me in discord for the .exe file</h5>
 <p>The class help manager was made with CCBM in mind and it might or might not work with other mods</p>
-
 <p>Data has to be added manually to the MENUDEF file as this does not have an "Add Class" option (yet anyway).</p>
-<strong>Python 3.7+ is needed, as well as the library pyqt5 for python.</strong>
+<p>Python 3.7+ and the library 'pyqt5' are needed for this to work if you don't have the .exe yet</p>
 <strong>How to use: </strong>
 <ol>
   <li>Manually write the file FULL path on the top bar.</li>
