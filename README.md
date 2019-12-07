@@ -4,7 +4,8 @@
 <p>The class help manager was made with CCBM in mind and it might or might not work with other mods</p>
 
 <p>Data has to be added manually to the MENUDEF file as this does not have an "Add Class" option (yet anyway).</p>
-<strong>How to use: (Python 3.7+ needed if you don't have the .exe)</strong>
+<strong>Python 3.7+ is needed, as well as the library pyqt5 for python.</strong>
+<strong>How to use: </strong>
 <ol>
   <li>Manually write the file FULL path on the top bar.</li>
   <li>Press open.</li>
