@@ -2,7 +2,7 @@ from classhelpui import *
 from datetime import datetime
 import sys, os
 
-
+# Last time changed: 06/12/2019
 class ClassHelpW(QtWidgets.QMainWindow, Ui_MainWindow):
     def __init__(self, *args, **kwargs):
         QtWidgets.QMainWindow.__init__(self, *args, **kwargs)
