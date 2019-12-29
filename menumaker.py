@@ -188,10 +188,12 @@ class ClassHelpW(QtWidgets.QMainWindow, Ui_MainWindow):
         main = self.class_mai[index]
         alt = self.class_alt[index]
         itm = self.class_itm[index]
+        rel = self.class_rel[index]
 
         self.txtMainfire.setText(main)
         self.txtAltfire.setText(alt)
         self.txtItem.setText(itm)
+        self.txtReload.setText(rel)
 
     def openFile(self):
         try:
