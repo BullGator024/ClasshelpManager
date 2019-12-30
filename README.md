@@ -11,6 +11,10 @@
   <li>Scroll through the class index.</li>
   <li>Make your changes.</li>
   <li>Press the button "Change".</li>
-  <li>Press "Export".</li>
+  <li>You must do this before changing to another class</li>
+  <li>Press "Export" once you're done with your changes.</li>
   <li>All done. Any error should be printed in the console.</li>
  </ol>
+
+<break>
+<h5>This only exports the data, the menu itself needs to be done manually</h5>
